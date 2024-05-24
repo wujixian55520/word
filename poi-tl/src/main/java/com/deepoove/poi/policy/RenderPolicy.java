@@ -18,9 +18,11 @@ package com.deepoove.poi.policy;
 import com.deepoove.poi.XWPFTemplate;
 import com.deepoove.poi.template.ElementTemplate;
 
+import java.util.List;
+
 /**
  * Do Anything Anywhere
- * 
+ *
  * @author Sayi
  * @version 0.0.1
  */
